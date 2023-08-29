@@ -57,3 +57,19 @@ body {
       text-align: left;
     }
   }
+  /* ------------------- */
+  
+.head-container{
+    width: 100%;
+    background-color: #0a192f;
+    color: white;
+}
+.header-image img{
+    width: 80px;
+    height: 50px;
+    
+}
+.com-name{
+    font-size: 1.4em;
+    color: #64ffda;
+}
